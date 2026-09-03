@@ -1,3 +1,4 @@
+
 # 🚀 GodotFlow Pro for Blender 4.x
 
 [![Blender](https://img.shields.io/badge/Blender-4.0%2B-orange?style=for-the-badge&logo=blender)](https://www.blender.org/)
@@ -40,3 +41,9 @@
 
 ## 💖 Support & Community
 If this tool saves you time, consider supporting the development on **[Boosty](https://boosty.to/mrfock)**!
+
+---
+
+<img width="717" height="681" alt="Снимок экрана 2026-09-03 224631" src="https://github.com/user-attachments/assets/75847398-df80-4739-900c-e5741038b2df" />
+<img width="2030" height="1293" alt="Снимок экрана 2026-09-03 222854" src="https://github.com/user-attachments/assets/68ab1510-d8c7-43c1-a1da-eff5563727e4" />
+<img width="760" height="479" alt="Снимок экрана 2026-09-03 224103" src="https://github.com/user-attachments/assets/38c491f3-2e8e-4f40-80f4-09d8f7bb2752" />
