@@ -5,12 +5,12 @@
 [![Release](https://img.shields.io/github/v/release/твой-логин/godotflow-pro?style=for-the-badge&color=green)](https://github.com/твой-логин/godotflow-pro/releases/latest)
 [![Support on Boosty](https://img.shields.io/badge/Support_on-Boosty-orange?style=for-the-badge&logo=boosty)](https://boosty.to/твой-бусти)
 
-> An ultra-fast, aesthetic bridge between **Blender** and **Godot**. <img width="1138" height="640" alt="0903(2)" src="https://github.com/user-attachments/assets/8fc6fe60-cb4d-469d-8eaf-e56bd21a5ee6" />
-Auto-Collisions with Auto Decimate, Animation Libraries, Auto Centering Objects, VAT Animations.
+> An ultra-fast, aesthetic bridge between **Blender** and **Godot**. Auto-Collisions with Auto Decimate, Animation Libraries, Auto Centering Objects, VAT Animations.
 
 ---
 
 ## 📽️ Demo
+<img width="1138" height="640" alt="0903(2)" src="https://github.com/user-attachments/assets/8fc6fe60-cb4d-469d-8eaf-e56bd21a5ee6" />
 
 <!-- ПЕРЕТАЩИ СЮДА СВОЮ ГИФКУ МЫШКОЙ -->
 
@@ -30,7 +30,7 @@ Auto-Collisions with Auto Decimate, Animation Libraries, Auto Centering Objects,
 
 ## 📥 Quick Installation
 
-1. Download **[`godotflow_pro.zip`](https://github.com/твой-логин/godotflow-pro/releases/latest)** from the latest release.
+1. Download **[`godotflow_pro.zip`](https://github.com/Arsenic8G/godotflow-pro/releases/latest)** from the latest release.
 2. Open Blender $\to$ `Edit` $\to$ `Preferences` $\to$ `Add-ons` (or `Get Extensions` in Blender 4.2+).
 3. Click the top-right menu icon $\to$ **Install from Disk...** and select the `.zip`.
 4. Enable **GodotFlow Pro**.
@@ -39,4 +39,4 @@ Auto-Collisions with Auto Decimate, Animation Libraries, Auto Centering Objects,
 ---
 
 ## 💖 Support & Community
-If this tool saves you time, consider supporting the development on **[Boosty](https://boosty.to/твой-бусти)**!
+If this tool saves you time, consider supporting the development on **[Boosty](https://boosty.to/mrfock)**!
