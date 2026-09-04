@@ -12,7 +12,6 @@
 <br/>
 
 **One click. Zero mental overhead. Pure flow.**  
-Designed with Apple-grade polish directly inside Blender’s 3D Viewport.
 
 <br/>
 
@@ -21,6 +20,8 @@ Designed with Apple-grade polish directly inside Blender’s 3D Viewport.
 </div>
 
 ---
+
+<br/>
 
 ## ⚡️ The New Standard
 
@@ -34,6 +35,7 @@ Manual 3D-to-engine exports are obsolete. No more renaming suffixes by hand, con
 | 📦 Single heavy GLB file with buried animations | 🎭 **Split `Mesh@Action-loop.glb` animation libraries** |
 
 ---
+<br/>
 
 ## 📱 Designed cool. Engineered for Speed.
 
@@ -54,6 +56,8 @@ Manual 3D-to-engine exports are obsolete. No more renaming suffixes by hand, con
 
 ---
 
+<br/>
+
 ## 🕹️ Quick Start
 
 1. **Bind Root:** Press `N` $\to$ **Godot** tab $\to$ set your target project folder (`res://`).
@@ -66,7 +70,9 @@ Manual 3D-to-engine exports are obsolete. No more renaming suffixes by hand, con
 
 ---
 
-## 📥 Get Started in Seconds
+<br/>
+
+##  📥 Get Started in Seconds
 
 1. Grab **[`godotflow_pro.zip`](https://github.com/Arsenic8G/godotflow-pro/releases/latest)**.
 2. In Blender: `Edit` $\to$ `Preferences` $\to$ `Get Extensions` (or `Add-ons`).
