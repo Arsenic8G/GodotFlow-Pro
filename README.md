@@ -34,14 +34,16 @@ Manual 3D-to-engine exports are obsolete. No more renaming suffixes by hand, con
 | 🦴 IK bones cluttering the Godot scene tree | 🧹 **Automatic deform-only bone filter** |
 | 📦 Single heavy GLB file with buried animations | 🎭 **Split `Mesh@Action-loop.glb` animation libraries** |
 
+<div align="center">
+  <img width="760" height="479" src="https://github.com/user-attachments/assets/38c491f3-2e8e-4f40-80f4-09d8f7bb2752" />
+</div>
+
 ---
+
 <br/>
 
 ## 📱 Designed cool. Engineered for Speed.
 
-<div align="center">
-  <img width="717" height="681" src="https://github.com/user-attachments/assets/75847398-df80-4739-900c-e5741038b2df" />
-</div>
 
 - **⚡️ Smart Collisions & Decimation:** Generate convex hulls or trimeshes on the fly. Drop physics mesh density down to 10% without touching source geometry.
 - **🎭 Native Animation Libraries:** Auto-splits actions into modular `Character@Run-loop.glb` files with self-configuring `.import` flags for Godot 4.
@@ -65,7 +67,7 @@ Manual 3D-to-engine exports are obsolete. No more renaming suffixes by hand, con
 3. **Hit Sync:** Select models and hit **`📦 Selected`** or **`🚀 Sync All`**.
 
 <div align="center">
-  <img width="760" height="479" src="https://github.com/user-attachments/assets/38c491f3-2e8e-4f40-80f4-09d8f7bb2752" />
+  <img width="717" height="681" src="https://github.com/user-attachments/assets/75847398-df80-4739-900c-e5741038b2df" />
 </div>
 
 ---
