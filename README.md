@@ -1,6 +1,6 @@
 <div align="center">
 
-#  GodotFlow Pro
+# GodotFlow Pro
 ### *Spend 95% less time exporting. Go make something actually fun.*
 
 [![Blender](https://img.shields.io/badge/Blender-4.0%2B-F5792A?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/)
